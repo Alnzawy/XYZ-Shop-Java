@@ -108,6 +108,12 @@ The assignment requires the implementation of the following main classes and int
 - Exception Handling
 - Input Validation
 
+## UML Class Diagram
+
+The following UML class diagram illustrates the overall structure of the XYZ Shop application, including its main classes, attributes, methods, interfaces, and relationships.
+
+![XYZ Shop UML Class Diagram](XYZ-Shop-UML-Class-Diagram.png)
+
 ## Team Collaboration
 
 This project was a collaborative academic group assignment focused on extending a shop management application using object-oriented programming principles.
